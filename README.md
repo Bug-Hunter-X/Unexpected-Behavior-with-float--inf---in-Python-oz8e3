@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in Python related to the use of float('inf'). The function 'function_with_uncommon_error' returns positive infinity when the denominator is zero. This can cause problems later in a program if not handled properly.  The solution shows a safer way to handle potential division by zero issues.
